@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  role_name: template
+  role_name: rootuser
   author: neoloc
-  description: description
+  description: ansible role to configure the root user on Linux
   license: "license (BSD, MIT)"
   min_ansible_version: 2.4
   github_branch: master
